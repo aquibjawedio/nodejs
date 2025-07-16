@@ -1,0 +1,12 @@
+{
+  "name": "1-intro",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "scripts": {
+    "start": "node hello.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
