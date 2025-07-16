@@ -1,0 +1,1 @@
+console.log(`Hi, this file is created with fs module`)
