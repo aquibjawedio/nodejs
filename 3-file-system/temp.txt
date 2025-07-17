@@ -1,0 +1,5 @@
+Hello and welcome to the file system tutorial.
+This file is a temporary text file created for demonstration purposes.
+Feel free to modify it as needed.
+Remember to delete it when you are done to keep the file system clean.
+Thank you for your attention and happy coding!
